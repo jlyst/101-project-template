@@ -4,7 +4,7 @@
 
 ## What is [Project Name]?
 
-[Describe the applications functional purpose.]
+[Describe the application's functional purpose.]
 
 ## Who is [Project Name] for and what value does it bring?
 
