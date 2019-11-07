@@ -8,4 +8,4 @@
 
 [Live App](https://repl.it)
 
-[Project Board](https://github.com/jlyst/101-project-template/projects/1)
+[Project Board](../../projects/1)
