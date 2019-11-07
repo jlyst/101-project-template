@@ -1,14 +1,8 @@
 # [Project Name]
 
-> [Value Proposition]
+[Value Proposition]
 
-## What is [Project Name]?
-
-[Describe the application's functional purpose.]
-
-## Who is [Project Name] for and what value does it bring?
-
-[Describe the primary stakeholders and the value it brings each.]
+[As needed, provide more about what the applicaiton does, the primary stakeholders and the value it brings each.]
 
 ## Links
 
