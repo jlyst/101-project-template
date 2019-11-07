@@ -3,8 +3,10 @@
 > [Value Proposition]
 
 ## What is [Project Name]?
+[Describe the applications functional purpose.]
 
 ## Who is [Project Name] for and what value does it bring?
+[Describe the primary stakeholders and the value it brings each.]
 
 ## Development Outline
 
