@@ -8,6 +8,6 @@
   - [ ] Present Prototype Review and App Demonstration
 
 *Options: Choose 1*
-- [ ] Create 3 Distinct Paper Prototypes
+- [ ] Create 2 Distinct Paper Prototypes
 - [ ] Apply at least 2 "Advanced" Web App Techniques
 - [ ] Develop a Means and Workflow for Collecting Quantitative User Data
